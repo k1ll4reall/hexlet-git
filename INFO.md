@@ -1,3 +1,3 @@
-git is awesome!
+git is awesome!.
 new content
 experiment with amend
